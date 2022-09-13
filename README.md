@@ -8,9 +8,11 @@ Using the dataset of UFO, we created a dynamic table in the web page in order to
 
 Though the Html we include the functions we wanted the web page to contain and using our syle.css we gave the web page a better design.
 
-url("images/web page.PNG")
 
-url("images/filter search.PNG")
+<img width="747" alt="web page" src="https://user-images.githubusercontent.com/108194577/189787798-270b3588-28aa-4591-b4a0-bbc26a0ab188.PNG">
+
+<img width="733" alt="filter search" src="https://user-images.githubusercontent.com/108194577/189787817-d564f726-26ab-461b-ae9a-010f62c14891.PNG">
+
 
 ## Summary
 
